@@ -38,5 +38,8 @@ This project analyzes consumer goods data using SQL to solve 10 business problem
 ## 🔹 Power BI Visualization
 ![report query7](Monthly gross sales.png)
 
+## 🔹Acknowledgement
+The business problem statements are sourced from the codebasics SQL challenge.
+
 ## 🔹 Conclusion
 This project demonstrates how SQL and data visualization tools can be used to extract actionable insights and support business decisions in the consumer goods industry.
