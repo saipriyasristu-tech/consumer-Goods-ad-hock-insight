@@ -32,7 +32,7 @@ This project analyzes consumer goods data using SQL to solve 10 business problem
 - ad-hoc-requests.pdf → Business problem statements  
 - consumer queries.sql → SQL queries used for analysis  
 - dashboard.xlsx → Excel dashboards  
-- report query7.pbix → Power BI dashboard  
+- report query7.pbix → Power BI Visualization.
 - ad-hoc Insights.pptx → Final presentation  
 
 ## 🔹 Power BI Visualization
